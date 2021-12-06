@@ -1,0 +1,7 @@
+C:\Users\hasgo\Desktop\DerivcoAssessment\bin\Debug\DerivcoAssessment.exe.config
+C:\Users\hasgo\Desktop\DerivcoAssessment\bin\Debug\DerivcoAssessment.exe
+C:\Users\hasgo\Desktop\DerivcoAssessment\bin\Debug\DerivcoAssessment.pdb
+C:\Users\hasgo\Desktop\DerivcoAssessment\obj\Debug\DerivcoAssessment.csproj.AssemblyReference.cache
+C:\Users\hasgo\Desktop\DerivcoAssessment\obj\Debug\DerivcoAssessment.csproj.CoreCompileInputs.cache
+C:\Users\hasgo\Desktop\DerivcoAssessment\obj\Debug\DerivcoAssessment.exe
+C:\Users\hasgo\Desktop\DerivcoAssessment\obj\Debug\DerivcoAssessment.pdb

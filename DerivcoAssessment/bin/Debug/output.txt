@@ -1,0 +1,15 @@
+Billy matches Stephan 91%, good match
+Jennie matches Robert 91%, good match
+Stephanie matches John 83%, good match
+Billy matches Robert 81%, good match
+Jennie matches Billy 81%, good match
+Jennie matches John 71%
+Jennie matches Kyle 71%
+Stephanie matches Stephan 68%
+Billy matches Billy 62%
+Billy matches John 61%
+Billy matches Kyle 52%
+Stephanie matches Robert 22%
+Stephanie matches Billy 21%
+Jennie matches Stephan 20%
+Stephanie matches Kyle 20%
